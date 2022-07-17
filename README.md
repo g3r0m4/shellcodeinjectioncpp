@@ -13,4 +13,4 @@
 
 # ScreenShots
 
-![](/Screenshot/paygen.png)
+![](screen.png)
